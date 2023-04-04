@@ -4,16 +4,23 @@
 Exercice ESP32
 
 ## Commandes
+
 git status
+
 git init
+
 git add *
+
 git commit -a -m "first commit"     (a veut dire all et m message)
+
 git push -u origin main
 
 
 descendre un dépot
+
 git pull
 
 
 cloner un dépot qui n'est pas présent sur l'ordinateur local
+
 git clone
